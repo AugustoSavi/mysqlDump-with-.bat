@@ -2,7 +2,7 @@
     MysqlDump with .bat to do Backup
 </h1>
 
-## :rocket: Why this repository?
+## :question: Why this repository?
 
 make my life easier
 
