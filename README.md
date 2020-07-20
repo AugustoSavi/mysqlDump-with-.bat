@@ -8,3 +8,4 @@ make my life easier
 
 ## :information_source: Attention
 
+Dont has space between -p and password -p[password]
